@@ -74,5 +74,5 @@ The TRM provides detailed descriptions of the internal architecture of PSoC 6 de
 If you have any queries or questions, our technical support team would be happy to assist you. You can create a support request at [This link](https://secure.cypress.com/myaccount/?id=25&techSupport=1), or if you are in the United States, you can talk to our technical support team by calling our toll-free number +1-800-541-4736 and then selecting option 8 at the IVR prompt. 
 
 You can also use the following support resources if you need quick assistance: 
-Self-help: [Technical Support] (http://www.cypress.com/support)
-Local Sales office locations: [Sales Office] (http://www.cypress.com/about-us/sales-offices)
+Self-help: [Technical Support](http://www.cypress.com/support)
+Local Sales office locations: [Sales Office](http://www.cypress.com/about-us/sales-offices)
