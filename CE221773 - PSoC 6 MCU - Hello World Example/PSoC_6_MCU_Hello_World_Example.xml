@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Name="PSoC_6_MCU_Hello_World_Example" WorkspaceName="CE221773.cywrk">
+	<Version>1.10</Version>
+	<Keyword>PSoC 6</Keyword> 
+	<Keyword>PSoC 6 MCU</Keyword> 
+	<Keyword>Dual Core MCU</Keyword> 
+	<Keyword>Getting Started with PSoC 6 MCU</Keyword> 
+	<Keyword Hidden="true">CY8CKIT-062-WiFi-BT Pioneer Kit</Keyword>
+	<Keyword Hidden="true">CY8CKIT-062-BLE Pioneer Kit</Keyword>
+	<Description>This code example demonstrates the implementation of simple UART
+	communication and LED control using PSoC 6 MCU. The UART and LED control tasks
+	are executed by the Arm Cortex-M4 CPU of PSoC 6 MCU.</Description>
+	<DeviceFilter>PSoC 62</DeviceFilter>
+	<DeviceFilter>PSoC 63</DeviceFilter>
+	<Document>CE221773_PSoC_6_MCU_Hello_World_Example.pdf</Document>
+	<MinToolVersion>4.2</MinToolVersion>
+</Project>

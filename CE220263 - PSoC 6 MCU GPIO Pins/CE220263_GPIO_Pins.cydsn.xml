@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Name="CE220263_GPIO_Pins" WorkspaceName="CE220263.cywrk">
+  <Version>1.0</Version>
+  <Keyword>GPIO</Keyword>
+  <Keyword>GPIO_PDL</Keyword>
+  <Keyword>Pins</Keyword>
+  <Keyword>Pin</Keyword>
+  <Keyword>Port</Keyword>
+  <Keyword Hidden="true">CY8CKIT-062-BLE</Keyword>
+  <Keyword Hidden="true">CY8CKIT-062</Keyword>
+  <Description>This example demonstrates basic GPIO Pins operation.</Description>
+  <DeviceFilter>PSoC 62</DeviceFilter>
+  <DeviceFilter>PSoC 63</DeviceFilter>
+  <Document>CE220263.pdf</Document>
+  <MinToolVersion>4.2</MinToolVersion>
+</Project>

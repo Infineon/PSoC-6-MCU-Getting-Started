@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Name="CE216795_DualCoreSharedMemory" WorkspaceName="CE216795.cywrk">
+  <Version>1.10</Version>
+  <Keyword>Dual Core</Keyword>
+  <Keyword>IPC</Keyword>
+  <Keyword Hidden="true">CY8CKIT-062-BLE</Keyword>
+  <Description>This example uses the inter-processor communication (IPC)
+  block in PSoC 6. Using the IPC, the CPUs share a portion of SRAM and
+  communicate in a simple mutex / semaphore-based application.</Description>
+  <DeviceFilter>PSoC 63</DeviceFilter>
+  <Document>CE216795.pdf</Document>
+  <MinToolVersion>4.2</MinToolVersion>
+</Project>
