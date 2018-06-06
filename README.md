@@ -19,7 +19,7 @@ For block level examples please refer to the following GitHub repositories:
 
 #### 1. [Analog Designs]
 #### 2. [Digital Designs]
-#### 3. [BLE Connectivity Designs]
+#### 3. [BLE Connectivity Designs](https://github.com/cypresssemiconductorco/PSoC-6-MCU-BLE-Connectivity-Designs)
 #### 4. [Audio Designs]
 #### 5. [Device Related Designs]
 #### 6. [System-Level Designs]
