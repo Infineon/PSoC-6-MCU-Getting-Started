@@ -17,7 +17,7 @@ Feel free to explore through the code example source files and let us innovate t
 The examples provided on this GitHub page helps you to get acquainted with PSoC 6 MCU and how to use PSoC Creator to develop a PSoC 6 MCU based design.
 For block level examples please refer to the following GitHub repositories:
 
-#### 1. [Analog Designs]
+#### 1. [Analog Designs](https://github.com/cypresssemiconductorco/PSoC-6-MCU-Analog-Designs)
 #### 2. [Digital Designs]
 #### 3. [BLE Connectivity Designs](https://github.com/cypresssemiconductorco/PSoC-6-MCU-BLE-Connectivity-Designs)
 #### 4. [Audio Designs]
