@@ -18,12 +18,13 @@ The examples provided on this GitHub page helps you to get acquainted with PSoC 
 For block level examples please refer to the following GitHub repositories:
 
 #### 1. [Analog Designs](https://github.com/cypresssemiconductorco/PSoC-6-MCU-Analog-Designs)
-#### 2. [Digital Designs]
+#### 2. [Digital Designs](https://github.com/cypresssemiconductorco/PSoC-6-MCU-Digital-Designs)
 #### 3. [BLE Connectivity Designs](https://github.com/cypresssemiconductorco/PSoC-6-MCU-BLE-Connectivity-Designs)
-#### 4. [Audio Designs]
-#### 5. [Device Related Designs]
-#### 6. [System-Level Designs]
-#### 7. [PSoC 6 Pioneer Kit Designs]
+#### 4. [Audio Designs](https://github.com/cypresssemiconductorco/PSoC-6-MCU-Audio-Designs)
+#### 5. [Device Related Designs](https://github.com/cypresssemiconductorco/PSoC-6-MCU-Device-Related-Design)
+#### 6. [System-Level Designs](https://github.com/cypresssemiconductorco/PSoC-6-MCU-System-Level-Designs)
+#### 7. [PSoC 6 Pioneer Kit Designs](https://github.com/cypresssemiconductorco/PSoC-6-MCU-Pioneer-Kits)
+#### 8. [PSoC 6 MCU based RTOS Designs](https://github.com/cypresssemiconductorco/PSoC-6-MCU-RTOS-Based-Design)
 
 You can use these block level examples to guide you through the development of a system-level design using PSoC 6 MCU. All the code examples in this repository comes with well documented design guidelines to help you understand the design and how to develop it. The code examples and their associated documentation are in the Code Example folder in the repository.
 
@@ -71,8 +72,10 @@ The TRM provides detailed descriptions of the internal architecture of PSoC 6 de
 ## FAQ
 
 ### Technical Support
-If you have any queries or questions, our technical support team would be happy to assist you. You can create a support request at [This link](https://secure.cypress.com/myaccount/?id=25&techSupport=1), or if you are in the United States, you can talk to our technical support team by calling our toll-free number +1-800-541-4736 and then selecting option 8 at the IVR prompt. 
+Need support for your design and development questions? Check out the [Cypress Developer Community 3.0](https://community.cypress.com/welcome).  
 
-You can also use the following support resources if you need quick assistance: 
+Interact with technical experts in the embedded design community and receive answers verified by Cypress' very best applications engineers. You'll also have access to robust technical documentation, active conversation threads, and rich multimedia content. 
+
+You can also use the following support resources if you need quick assistance:
 ##### Self-help: [Technical Support](http://www.cypress.com/support)
 ##### Local Sales office locations: [Sales Office](http://www.cypress.com/about-us/sales-offices)
