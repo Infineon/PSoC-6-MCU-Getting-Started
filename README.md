@@ -43,7 +43,7 @@ To use the code examples in this repository, please download and install
 
 **Note** Please refer to the code example documentation for selecting the appropriate kit for testing the project
 
-## Code Example List
+## Code Examples List
 #### 1. CE221773 - PSoC 6 MCU - Hello World Example
 This code example demonstrates the implementation of simple UART communication and LED control using PSoC 6 MCU. The UART and LED control tasks are executed by the Arm Cortex-M4 CPU of PSoC 6 MCU.
 #### 2. CE220263 - PSoC 6 MCU GPIO Pins Example
